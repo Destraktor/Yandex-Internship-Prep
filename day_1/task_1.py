@@ -1,1 +1,0 @@
-print([i**2 for i in range(1,19) if i%2 == 1])
